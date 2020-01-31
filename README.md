@@ -32,5 +32,5 @@ The `npm run` command will list all of the scripts available to run for this pro
 
 
 ## Launch Screen
-![spring-boot-launch][launch]
-[launch]: SpringBoot-Launch.png "spring-boot-launch"
+
+![alt text](SpringBoot-Launch.png)
